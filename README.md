@@ -10,6 +10,8 @@ Sample submission file: https://drive.google.com/file/d/0B7tb9lqp600Sd1EzR01pQmt
 
 My contact: hgcrpd@gmail.com
 
+Here's the link to my actual code: https://github.com/hxu/kaggle-loan-default
+
 Pseudocode for overall pipeline:
 ================================
 
